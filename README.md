@@ -49,58 +49,18 @@ The fifth component presents a box plot illustrating the distribution of custome
 
 The final component is a pie chart depicting the distribution of customer device types based on the chosen filters. This visualization provides an overview of the devices customers use to access the e-commerce platform during the selected criteria.
 
+Here is how the Dashboard looks like visually:
 
+![my ecommerce project](https://github.com/MadniAbdulWahab/CustomerSegmentationandProductAnalysis/assets/105889425/35b62e54-2185-4871-95f0-17c3b81fc07f)
 
+<h2>Project Code</h2>
 
+For an in-depth understanding of the implementation, you can explore the project code. The code encompasses data loading, preprocessing, interactive visualization creation using <b>Plotly.express</b>, and assembly of the dashboard using <b>Panel</b>.
 
+Feel free to examine the code, execute the project, and interact with the dashboard to glean valuable insights into customer segmentation and product analysis based on the 2018 dataset.
 
+Thank you for engaging with my Customer Segmentation and Product Analysis project! Should you have inquiries or feedback, please don't hesitate to reach out.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff
